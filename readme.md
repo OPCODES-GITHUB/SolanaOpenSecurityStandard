@@ -1,6 +1,6 @@
 ![logo](./assets/logo.png)
 
-##Solana Open Security Standard
+## Solana Open Security Standard
 
 Solana Open Security Standard (SOSS) is a proposition of a security awareness standard for Solana. We wish to make a consensus about the most common security risks of Solana programs.
 
